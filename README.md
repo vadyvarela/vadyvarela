@@ -2,16 +2,15 @@
 
 Contact me: vadyy2014@gmail.com
 
-Frontend
-
+**Frontend
 React.js (Next.js)
 VueJS
-Backend
 
+**Backend
 Node.js
 Python
-Mobile
 
+**Mobile
 React Native (Expo)
 Desktop
 
