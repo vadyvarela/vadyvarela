@@ -1,4 +1,22 @@
-## Olá eu sou Vadnir Vieira, Apaixonado pelas melhores tecnologias de desenvolvimento Web e Mobile - NodeJS - ReactJS & React Native!
+## Full-stack developer passionate about transforming complex ideas into realistic web applications. Currently, I am working with cutting-edge technologies such as Next.js, Python, Artificial Intelligence, and Node.js to create innovative and scalable solutions.
+
+Contact me: vadyy2014@gmail.com
+
+Frontend
+
+React.js (Next.js)
+VueJS
+Backend
+
+Node.js
+Python
+Mobile
+
+React Native (Expo)
+Desktop
+
+Tauri
+Electron
 <div align="center">
   <a href="https://github.com/vadyvarela">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vadyvarela&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
